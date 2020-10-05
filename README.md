@@ -23,7 +23,7 @@
 
 ### Applications
 * NetBeans, the choosen IDE for the back-end.
-* Tomcat, to host the backend.
+* Tomcat, to host the back-end application.
 * MySQL, the choosen SQL database.
 * PopSQL, to easier work with SQL commands.
 * Postman, to test the API.
