@@ -5,12 +5,25 @@
 * Create endpoints for orders
 * Create following pages: home, login, register, products, single product, cart, settings, orders, single order
 
-## Languages used in this project
-* Java & Spring Boot
+## Technologies used in this project
+### Languages
+* Java
 * SQL
 
-## Applications used in this project
+### Frameworks & libraries
+* Spring Boot
+* Lombok
+
+### Interfaces & architectures
+* REST API
+* JPA
+
+### Package management
+* Maven
+
+### Applications
 * NetBeans, the choosen IDE for the back-end.
+* Tomcat, to host the backend.
 * MySQL, the choosen SQL database.
 * PopSQL, to easier work with SQL commands.
 * Postman, to test the API.
