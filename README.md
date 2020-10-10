@@ -1,7 +1,7 @@
 # webshop
 
 ## To do
-* Create a front end that fetches data from the endpoints
+* Create a front-end that fetches data from the endpoints
 * Create endpoints for orders
 * Create following pages: home, login, register, products, single product, cart, settings, orders, single order
 
@@ -22,9 +22,9 @@
 * Maven
 
 ### Applications
-* NetBeans, the choosen IDE for the back-end.
+* NetBeans, the chosen IDE for the back-end.
 * Tomcat, to host the back-end application.
-* MySQL, the choosen SQL database.
+* MySQL, the chosen SQL database.
 * PopSQL, to easier work with SQL commands.
 * Postman, to test the API.
 
